@@ -14,7 +14,7 @@
     </head>
     <body>
 
-        <h1>O usuário entrou</h1>
+        <h1>O usuário <?php $_SESSION["nome"] ?> entrou</h1>
 
     </body>
 
